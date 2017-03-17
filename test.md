@@ -19,6 +19,6 @@
 
 ## **Agenda**
 
-*   Review [minutes](https://github.com/apastsya/files/jsr348/Meeting%20materials%20-%20pre%20Expert%20Group/2011-05-25-Minutes.md) from last week's meeting
+*   Review [minutes](./files/Meeting%20materials%20-%20pre%20Expert%20Group/2011-05-25-Minutes.md) from last week's meeting
 *   Plan for submission of proposal for Expert Group's working style to full EG at June 7 EC meeting
 *   Next steps

@@ -19,6 +19,6 @@
 
 ## **Agenda**
 
-*   Review [minutes](http://java.net/downloads/jsr348/Meeting%20materials - pre Expert Group/2011-05-25-Minutes.html) from last week's meeting
+*   Review [minutes](http://java.net/downloads/jsr348/Meeting%20materials) - pre Expert Group/2011-05-25-Minutes.html from last week's meeting
 *   Plan for submission of proposal for Expert Group's working style to full EG at June 7 EC meeting
 *   Next steps

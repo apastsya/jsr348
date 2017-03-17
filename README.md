@@ -5,7 +5,7 @@
 </tr>
 </table>
 
-This is the public project for [http://jcp.org/en/jsr/detail?id=348 JSR 348: Towards a new version of the Java Community Process], 
+This is the public project for [JSR 348: Towards a new version of the Java Community Process](http://jcp.org/en/jsr/detail?id=348), 
 the first of three JSRs to modify the JCP's processes. 
 
 This JSR will focus on relatively simple changes that can be implemented quickly (we hope to finish before October 2011.) 
@@ -22,5 +22,5 @@ We will therefore discuss our business in public, publish all of our working mat
 * For our meeting minutes and working documents, visit the <a href="http://java.net/projects/jsr348/pages/DocumentIndex">document archive</a>.
 * We use the <a href="http://java.net/jira/browse/JSR348">issue tracker</a> to record your comments and track issues.
 
-[Java Community Process](./images/JSR-lifecycle.jpg)
+![Java Community Process](./images/JSR-lifecycle.jpg)
 

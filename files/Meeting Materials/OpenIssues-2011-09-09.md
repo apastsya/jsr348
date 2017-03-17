@@ -14,7 +14,7 @@
 #### Categories of Member
 
 *   [JSR348-86: Improve clarity of Member definition](http://java.net/jira/browse/JSR348-86)
-    *   See [Notes on categories of Membership](./files/Working%20documents/Membership-AUG-31-2011.md): need to convert this into specific language
+    *   See [Notes on categories of Membership](/files/Working%20documents/Membership-AUG-31-2011.md): need to convert this into specific language
 
 ### Need discussion and/or suggested change
 

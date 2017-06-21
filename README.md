@@ -4,7 +4,7 @@
 <th><img src="./images/JCP-process-tiny.jpg" alt="Java Community Process" /> </th>
 </tr>
 </table>
-
+AAA
 This is the public project for [JSR 348: Towards a new version of the Java Community Process](http://jcp.org/en/jsr/detail?id=348), 
 the first of three JSRs to modify the JCP's processes. 
 
